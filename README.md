@@ -1,4 +1,4 @@
-# Hi, I'm Jihad Al Jubeh 👋
+# Hi, I'm Jehad Al-Ju'beh 👋
 
 I'm a Computer Engineering student at GJU and a 42 Amman cadet. I focus on C programming and explore systems-related projects, with some experience in Java and Python. I enjoy solving complex problems, building practical projects, and growing my coding skills.
 
